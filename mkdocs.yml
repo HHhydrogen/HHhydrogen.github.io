@@ -1,0 +1,22 @@
+site_name: Haohu's Website
+site_description: Notes and posts by Haohu
+site_url: https://hhhydrogen.github.io/
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - 首页: index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
