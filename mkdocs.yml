@@ -12,6 +12,8 @@ theme:
 
 nav:
   - 主页: index.md
+  - 关于我: about.md
+  - 文章归档: archive.md
 
 plugins:
   - search
