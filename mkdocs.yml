@@ -14,6 +14,8 @@ nav:
   - 主页: index.md
   - 关于我: about.md
   - 文章归档: archive.md
+  - Coding:
+      - MkDocs 建站与使用指南: coding/mkdocs-guide.md
 
 plugins:
   - search
