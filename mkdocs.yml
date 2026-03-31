@@ -1,5 +1,5 @@
-site_name: Haohu's Website
-site_description: Notes and posts by Haohu
+site_name: Haohu 的个人网站
+site_description: 记录编程、学习与生活的笔记
 site_url: https://hhhydrogen.github.io/
 
 theme:
@@ -11,7 +11,7 @@ theme:
     - content.code.copy
 
 nav:
-  - 首页: index.md
+  - 主页: index.md
 
 plugins:
   - search
